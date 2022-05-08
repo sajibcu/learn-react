@@ -1,3 +1,5 @@
+## https://github.com/learnwithsumit/think-in-a-react-way/tree/lesson-3
+
 Editor Setup
 You can use any editor but as I personally prefer VS Code. I will give some instructions about how I prefer VS code to be setup for React applications.
 
